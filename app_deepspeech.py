@@ -81,6 +81,9 @@ an open speech-to-text engine.
 A pre-trained model released with
 [v0.9.3](https://github.com/mozilla/DeepSpeech/releases/tag/v0.9.3),
 trained on American English is being served.
+
+Also there is a awesome [English accent test] (https://englishphonetics.net/english-pronunciation-tools/english-accent-and-pronunciation-test.html) based on
+the DeepSpeech model. For more details about the english accent model and its deploy refer to [English Phonetics] (https://englishphonetics.net/) 
 """
     )
 
